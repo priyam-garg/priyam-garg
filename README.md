@@ -250,18 +250,6 @@ Public repositories also include smaller experiments and utility projects across
 </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyam-garg&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="98%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyam-garg&theme=algolia" alt="GitHub stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyam-garg&theme=algolia" alt="Top languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyam-garg&theme=algolia" alt="Most used languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyam-garg&theme=algolia&utcOffset=5.5" alt="Productive time" width="49%" />
-
-</div>
-
 ## Contribution Graph
 
 <div align="center">
