@@ -49,9 +49,9 @@ Improved geocoding confidence scoring and built analytics dashboards for deliver
 </td>
 <td width="50%" valign="top">
 
-### Kritu Capital | AI Full Stack Intern
+### Krishna Tulasi Capital LLC | Software Engineering Intern
 
-Jan 2026 to Jun 2026
+Jan 2026 to May 2026
 
 Built automated business workflows, lead-generation pipelines, and a multi-agent assistance system with LangGraph and Qdrant.
 
@@ -189,9 +189,9 @@ Legal-document Q&A assistant with RAG over PDFs, Gemini Flash, Qdrant Cloud, and
 
 ### MOCKVIEW
 
-Next.js application scaffold with a growing UI layer, including sidebar and mobile navigation components.
+Real-time voice-based mock interview platform with three interview modes, AI-generated questioning, speech recognition, and live coaching on communication and pacing. Includes ATS résumé analysis across 13 roles with PDF parsing, keyword extraction, and role-based scoring.
 
-**Stack:** Next.js, TypeScript, Prisma, CSS
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, AI SDK, Speech-to-Text, Framer Motion
 
 </td>
 <td width="50%" valign="top">
@@ -216,7 +216,7 @@ Public repositories also include smaller experiments and utility projects across
 <td align="center" width="270">
 <h3>Codeforces</h3>
 <h2>Pupil</h2>
-<p>max rating 1349</p>
+<p>max rating 1371</p>
 </td>
 <td align="center" width="270">
 <h3>Leadership</h3>
