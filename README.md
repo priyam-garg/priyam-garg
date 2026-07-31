@@ -8,6 +8,7 @@
 
 <br />
 
+<a href="https://priyamgarg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-priyamgarg.vercel.app-4ADE80?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111827" alt="Portfolio" /></a>
 <a href="mailto:23ucs682@lnmiit.ac.in"><img src="https://img.shields.io/badge/Email-23ucs682%40lnmiit.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/priyam-garg-4a2899283"><img src="https://img.shields.io/badge/LinkedIn-priyam--garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/priyam-garg"><img src="https://img.shields.io/badge/GitHub-priyam--garg-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -20,6 +21,7 @@
 
 ```javascript
 const priyam = {
+  portfolio: "https://priyamgarg.vercel.app",
   education: "B.Tech CSE, LNMIIT Jaipur",
   focus: ["full-stack products", "RAG systems", "AI workflows", "production engineering"],
   stack: ["Next.js", "React", "Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Qdrant"],
@@ -250,6 +252,13 @@ Public repositories also include smaller experiments and utility projects across
 </tr>
 </table>
 
+## Portfolio
+
+Full write-ups of my internships, projects, DSA record, and résumé — with live stats
+pulled from GitHub, LeetCode, and Codeforces.
+
+### [priyamgarg.vercel.app](https://priyamgarg.vercel.app)
+
 ## Contribution Graph
 
 <div align="center">
@@ -270,3 +279,5 @@ Public repositories also include smaller experiments and utility projects across
 ## Connect
 
 If you want to reach out about full-stack engineering, AI systems, or product building, contact me at [23ucs682@lnmiit.ac.in](mailto:23ucs682@lnmiit.ac.in).
+
+More about my work at [priyamgarg.vercel.app](https://priyamgarg.vercel.app).
