@@ -2,9 +2,9 @@
 
 # PRIYAM GARG
 
-### Full-Stack Developer | AI Systems Builder | LNMIIT CSE
+### Full-Stack Developer | AI Systems Builder | Data & Analytics | LNMIIT CSE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Next.js+%7C+React+%7C+Node.js+%7C+FastAPI;RAG+%7C+LangGraph+%7C+Qdrant+%7C+LLMs;Nexus+%7C+Coursie+%7C+agricult+%7C+NyayaBot;LeetCode+Knight+%7C+Codeforces+Pupil" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Data+Analysis+%7C+Dashboards;Next.js+%7C+React+%7C+Node.js+%7C+FastAPI;RAG+%7C+LangGraph+%7C+Qdrant+%7C+LLMs;Nexus+%7C+Heart+Failure+Analysis+%7C+MOCKVIEW;LeetCode+Knight+%7C+Codeforces+Specialist" alt="Typing animation" />
 
 <br />
 
@@ -13,21 +13,24 @@
 <a href="https://www.linkedin.com/in/priyam-garg-4a2899283"><img src="https://img.shields.io/badge/LinkedIn-priyam--garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/priyam-garg"><img src="https://img.shields.io/badge/GitHub-priyam--garg-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/priyamgarg"><img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/priyamgarg8ii"><img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://codeforces.com/profile/priyamgarg8ii"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 
 </div>
 
 ## Why Me
 
+Software engineering student with hands-on experience in SQL, Python data pipelines and analytics dashboards, interested in turning complex data into clear insights.
+
 ```javascript
 const priyam = {
   portfolio: "https://priyamgarg.vercel.app",
   education: "B.Tech CSE, LNMIIT Jaipur",
-  focus: ["full-stack products", "RAG systems", "AI workflows", "production engineering"],
+  focus: ["data analysis & dashboards", "SQL & data pipelines", "full-stack products", "RAG systems", "AI workflows"],
+  data: ["Python", "SQL", "Pandas", "Streamlit", "PostgreSQL", "MySQL"],
   stack: ["Next.js", "React", "Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Qdrant"],
   ai: ["LangChain", "LangGraph", "Embeddings", "Vector Search", "Prompt Engineering"],
-  projects: ["Nexus", "Coursie", "agricult", "NyayaBot", "MOCKVIEW"],
-  coding: "LeetCode Knight, Codeforces Pupil",
+  projects: ["Nexus", "Heart Failure Survival Analysis", "MOCKVIEW", "Coursie", "agricult", "NyayaBot"],
+  coding: "LeetCode Knight, Codeforces Specialist",
   mindset: "Build fast. Debug deeply. Ship clean."
 };
 ```
@@ -40,11 +43,15 @@ const priyam = {
 
 ### Xpressbees | Software Engineering Intern
 
-May 2026 to Jul 2026
+May 2026 to Jul 2026 | Python, SQL, Data Analytics, Dashboards
 
-Led migration from Locus to Google Maps API for routing and geolocation with zero-downtime delivery operations.
+Migrated core location infrastructure from Locus to Google Maps API for routing and geolocation with zero-downtime delivery operations.
 
-Improved geocoding confidence scoring and built analytics dashboards for delivery-zone and agent tracking.
+Built an address cleansing pipeline that reduced incorrect address matches and delivery rerouting.
+
+Analyzed delivery-zone data and built a hub clustering pipeline to fix gaps and overlaps, cutting wrong hub selection by 0.5%.
+
+Built analytics dashboards for delivery-zone clusters and delivery-agent activity to support data-driven decisions.
 
 </td>
 <td width="50%" valign="top">
@@ -53,9 +60,11 @@ Improved geocoding confidence scoring and built analytics dashboards for deliver
 
 Jan 2026 to May 2026
 
-Built automated business workflows, lead-generation pipelines, and a multi-agent assistance system with LangGraph and Qdrant.
+Built a multi-agent AI platform (7+ agent types) with LangGraph and Qdrant, plus automated business workflows and lead-generation pipelines.
 
-Designed multi-tenant PostgreSQL architecture and a fault-tolerant Node.js API cluster.
+Deployed a WhatsApp AI agent supporting 1,000+ users for a wellness client.
+
+Designed multi-tenant PostgreSQL architecture and a containerized FastAPI service on AWS ECS Fargate.
 
 </td>
 </tr>
@@ -92,6 +101,14 @@ Strong interest in building reliable products with clean architecture and measur
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql,bash" alt="Languages" />
+
+### Data & Analytics
+
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
@@ -135,7 +152,7 @@ Jaipur, Rajasthan
 
 ### Coursework and Core Areas
 
-Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS, Low-Level Design, System Design, Generative AI, RAG, and Multi-Agent Systems.
+Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, Low-Level Design, System Design, Generative AI, RAG, and Multi-Agent Systems.
 
 </td>
 </tr>
@@ -152,6 +169,26 @@ Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS, Low-
 AI-augmented project management platform with Kanban execution, roadmap planning, analytics, context-aware AI chat, and GitHub-integrated code intelligence.
 
 **Stack:** Next.js 15, TypeScript, PostgreSQL, Drizzle ORM, Qdrant, LangGraph, Supabase, Gemini API
+
+</td>
+<td width="50%" valign="top">
+
+### [Heart Failure Survival Analysis](https://github.com/priyam-garg/Heart-Failure-Survival-Analysis)
+
+Data analysis of a clinical heart failure records dataset, with an interactive Streamlit app to explore factors linked to patient survival.
+
+**Stack:** Python, Streamlit, Pandas
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### MOCKVIEW
+
+Real-time voice-based mock interview platform with three interview modes, AI-generated questioning, speech recognition, and live coaching. Includes ATS résumé analysis across 13 roles and a dashboard tracking 4 performance dimensions.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, AI SDK, Speech-to-Text, Framer Motion
 
 </td>
 <td width="50%" valign="top">
@@ -184,25 +221,9 @@ Legal-document Q&A assistant with RAG over PDFs, Gemini Flash, Qdrant Cloud, and
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### MOCKVIEW
-
-Real-time voice-based mock interview platform with three interview modes, AI-generated questioning, speech recognition, and live coaching on communication and pacing. Includes ATS résumé analysis across 13 roles with PDF parsing, keyword extraction, and role-based scoring.
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, AI SDK, Speech-to-Text, Framer Motion
-
-</td>
-<td width="50%" valign="top">
-
-### More on GitHub
-
-Public repositories also include smaller experiments and utility projects across Python, TypeScript, and Jupyter Notebook work.
-
-</td>
-</tr>
 </table>
+
+More experiments and utility projects (Python, Jupyter Notebook, Streamlit) are in my [repositories](https://github.com/priyam-garg?tab=repositories).
 
 ## Achievements
 
@@ -215,8 +236,8 @@ Public repositories also include smaller experiments and utility projects across
 </td>
 <td align="center" width="270">
 <h3>Codeforces</h3>
-<h2>Pupil</h2>
-<p>max rating 1371</p>
+<h2>Specialist</h2>
+<p>max rating 1450</p>
 </td>
 <td align="center" width="270">
 <h3>Leadership</h3>
@@ -278,6 +299,6 @@ pulled from GitHub, LeetCode, and Codeforces.
 
 ## Connect
 
-If you want to reach out about full-stack engineering, AI systems, or product building, contact me at [23ucs682@lnmiit.ac.in](mailto:23ucs682@lnmiit.ac.in).
+If you want to reach out about data analysis, full-stack engineering, AI systems, or product building, contact me at [23ucs682@lnmiit.ac.in](mailto:23ucs682@lnmiit.ac.in).
 
 More about my work at [priyamgarg.vercel.app](https://priyamgarg.vercel.app).
