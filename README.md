@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | AI Systems Builder | Data & Analytics | LNMIIT CSE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Data+Analysis+%7C+Dashboards;Next.js+%7C+React+%7C+Node.js+%7C+FastAPI;RAG+%7C+LangGraph+%7C+Qdrant+%7C+LLMs;Nexus+%7C+Heart+Failure+Analysis+%7C+MOCKVIEW;LeetCode+Knight+%7C+Codeforces+Specialist" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Data+Analysis+%7C+Dashboards;Next.js+%7C+React+%7C+Node.js+%7C+FastAPI;RAG+%7C+LangGraph+%7C+Qdrant+%7C+LLMs;Nexus+%7C+MOCKVIEW+%7C+Heart+Failure+Analysis;LeetCode+Knight+%7C+Codeforces+Specialist" alt="Typing animation" />
 
 <br />
 
@@ -19,23 +19,25 @@
 
 ## Why Me
 
-Software engineering student with hands-on experience in SQL, Python data pipelines and analytics dashboards, interested in turning complex data into clear insights.
+Software engineering student who has shipped production AI agents, full-stack products and geolocation data pipelines across three internships. I enjoy turning complex data and messy workflows into reliable systems and clear insights.
 
 ```javascript
 const priyam = {
   portfolio: "https://priyamgarg.vercel.app",
-  education: "B.Tech CSE, LNMIIT Jaipur",
-  focus: ["data analysis & dashboards", "SQL & data pipelines", "full-stack products", "RAG systems", "AI workflows"],
-  data: ["Python", "SQL", "Pandas", "Streamlit", "PostgreSQL", "MySQL"],
-  stack: ["Next.js", "React", "Node.js", "FastAPI", "PostgreSQL", "MongoDB", "Qdrant"],
-  ai: ["LangChain", "LangGraph", "Embeddings", "Vector Search", "Prompt Engineering"],
-  projects: ["Nexus", "Heart Failure Survival Analysis", "MOCKVIEW", "Coursie", "agricult", "NyayaBot"],
-  coding: "LeetCode Knight, Codeforces Specialist",
+  education: "B.Tech CSE, LNMIIT Jaipur (2023 - 2027)",
+  focus: ["full-stack products", "RAG & multi-agent systems", "data pipelines & dashboards", "AI workflows"],
+  languages: ["C", "C++", "Java", "JavaScript", "TypeScript", "Python", "SQL"],
+  backend: ["Node.js", "Express", "FastAPI", "REST", "WebSockets", "Webhooks", "NextAuth", "Prisma", "Drizzle ORM"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "Zustand", "Zod"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Supabase", "Qdrant"],
+  ai: ["LangChain", "LangGraph", "RAG", "AI Agents", "Embeddings", "Prompt Engineering"],
+  projects: ["Nexus", "MOCKVIEW", "Heart Failure Survival Analysis", "Coursie", "agricult", "NyayaBot"],
+  coding: "LeetCode Knight (1904), Codeforces Specialist (1450)",
   mindset: "Build fast. Debug deeply. Ship clean."
 };
 ```
 
-## Current Work
+## Experience
 
 <table>
 <tr>
@@ -43,53 +45,46 @@ const priyam = {
 
 ### Xpressbees | Software Engineering Intern
 
-May 2026 to Jul 2026 | Python, SQL, Data Analytics, Dashboards
+May 2026 to Jul 2026 | Pune | Python, ReactJS, SQL, Data Analytics, NLP
 
-Migrated core location infrastructure from Locus to Google Maps API for routing and geolocation with zero-downtime delivery operations.
+Built an address cleansing pipeline and a location-data migration pipeline to a new provider, reducing incorrect address matches and improving delivery location accuracy and routing.
 
-Built an address cleansing pipeline that reduced incorrect address matches and delivery rerouting.
+Built a distributed hub-clustering pipeline over large-scale geolocation data to replace manually drawn hub boundaries, fixing zone gaps and overlaps and reducing wrong hub selection by 0.5%.
 
-Analyzed delivery-zone data and built a hub clustering pipeline to fix gaps and overlaps, cutting wrong hub selection by 0.5%.
-
-Built analytics dashboards for delivery-zone clusters and delivery-agent activity to support data-driven decisions.
+Developed analytics dashboards visualizing delivery-zone clusters and delivery-agent activity for data-driven workforce decisions.
 
 </td>
 <td width="50%" valign="top">
 
 ### Krishna Tulasi Capital LLC | Software Engineering Intern
 
-Jan 2026 to May 2026
+Jan 2026 to May 2026 | Remote | Next.js, Python, FastAPI, LangGraph, Docker, AWS, Vector DBs
 
-Built a multi-agent AI platform (7+ agent types) with LangGraph and Qdrant, plus automated business workflows and lead-generation pipelines.
+Built a customizable multi-agent AI platform supporting 7+ agent types, configurable knowledge bases, and business-specific workflows.
 
-Deployed a WhatsApp AI agent supporting 1,000+ users for a wellness client.
+Deployed a WhatsApp AI agent for a wellness client serving 1,000+ users, automating onboarding, engagement, and progress tracking.
 
-Designed multi-tenant PostgreSQL architecture and a containerized FastAPI service on AWS ECS Fargate.
+Engineered a production-ready system across 5+ channels with RAG pipelines, contextual conversations, and human escalation; deployed a containerized FastAPI service on AWS ECS Fargate.
 
 </td>
 </tr>
-</table>
-
-## More Experience
-
-<table>
 <tr>
+<td width="50%" valign="top">
+
+### Runtime HRMS | Full Stack Developer Intern
+
+May 2025 to Jul 2025 | Jaipur | React.js, Node.js, Express.js, REST APIs
+
+Built a responsive 11-step employee onboarding portal with progress tracking, dynamic form validation, step-wise state management, and secure storage of employee records and documents.
+
+</td>
 <td width="50%" valign="top">
 
 ### LNMIIT | Student Leader
 
-Elected Senator of the college student body.
+Elected Student Senator of the college student body (600+ voters).
 
-Sponsorship Head for the Desportivos college sports fest.
-
-</td>
-<td width="50%" valign="top">
-
-### Academic Focus
-
-Algorithms, operating systems, computer networks, DBMS, low-level design, system design, and generative AI.
-
-Strong interest in building reliable products with clean architecture and measurable outcomes.
+Head of Sponsorship for Desportivos, the college sports fest.
 
 </td>
 </tr>
@@ -102,6 +97,15 @@ Strong interest in building reliable products with clean architecture and measur
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,sql,bash" alt="Languages" />
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" alt="Backend" />
+
+### Infrastructure and Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,supabase,linux,postman,figma" alt="Infrastructure and tools" />
+
 ### Data & Analytics
 
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -110,23 +114,17 @@ Strong interest in building reliable products with clean architecture and measur
 <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+### AI & Libraries
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" alt="Backend" />
-
-### Database, Infrastructure and Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,supabase,linux" alt="Database and infrastructure" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/GROQ-111827?style=for-the-badge&logo=openai&logoColor=white" alt="GROQ" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/Qdrant-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="Qdrant" />
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="Drizzle ORM" />
 <img src="https://img.shields.io/badge/NextAuth-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="NextAuth" />
+<img src="https://img.shields.io/badge/Zustand-111827?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/Zod-111827?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -143,7 +141,7 @@ Strong interest in building reliable products with clean architecture and measur
 
 Bachelor of Technology in Computer Science & Engineering
 
-Aug 2023 to May 2027
+Aug 2023 to May 2027 | CGPA: 7.30 / 10
 
 Jaipur, Rajasthan
 
@@ -152,7 +150,7 @@ Jaipur, Rajasthan
 
 ### Coursework and Core Areas
 
-Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, Low-Level Design, System Design, Generative AI, RAG, and Multi-Agent Systems.
+Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks, Low-Level Design, System Design, Generative AI, RAG, and Multi-Agent Systems.
 
 </td>
 </tr>
@@ -166,11 +164,31 @@ Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, Low-
 
 ### Nexus
 
-AI-augmented project management platform with Kanban execution, roadmap planning, analytics, context-aware AI chat, and GitHub-integrated code intelligence.
+Project management platform unifying Kanban, roadmaps, analytics, and AI chat through a RAG pipeline over tasks, plans, and code.
+
+- LangGraph agentic workflow (Planner, Critic, Finalizer) for requirement-to-task decomposition with Zod-validated outputs
+- HMAC-SHA256-verified webhooks for bidirectional GitHub sync
+- Three-collection Qdrant store (tasks, roadmap, code chunks) with 768-dim Gemini embeddings and payload indexes for sub-second context retrieval
+- Real-time multi-user board sync via Supabase Realtime and Zustand, with role-based access control (owner/admin/member) and invite-based teams
 
 **Stack:** Next.js 15, TypeScript, PostgreSQL, Drizzle ORM, Qdrant, LangGraph, Supabase, Gemini API
 
 </td>
+<td width="50%" valign="top">
+
+### MOCKVIEW
+
+Real-time voice-based mock interview platform with 3 modes, AI-generated questions, speech recognition, and live coaching on communication, pacing, and confidence.
+
+- Resume ATS analysis for 13 roles with PDF parsing, keyword extraction, role-based scoring, and actionable suggestions
+- Dashboard tracking 4 performance dimensions and streaks
+- Secure auth with NextAuth and Prisma on PostgreSQL for accounts, sessions, and interview history
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, AI SDK, Speech-to-Text, Framer Motion
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Heart Failure Survival Analysis](https://github.com/priyam-garg/Heart-Failure-Survival-Analysis)
@@ -178,17 +196,6 @@ AI-augmented project management platform with Kanban execution, roadmap planning
 Data analysis of a clinical heart failure records dataset, with an interactive Streamlit app to explore factors linked to patient survival.
 
 **Stack:** Python, Streamlit, Pandas
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### MOCKVIEW
-
-Real-time voice-based mock interview platform with three interview modes, AI-generated questioning, speech recognition, and live coaching. Includes ATS résumé analysis across 13 roles and a dashboard tracking 4 performance dimensions.
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, NextAuth, AI SDK, Speech-to-Text, Framer Motion
 
 </td>
 <td width="50%" valign="top">
@@ -232,7 +239,7 @@ More experiments and utility projects (Python, Jupyter Notebook, Streamlit) are 
 <td align="center" width="270">
 <h3>LeetCode</h3>
 <h2>Knight</h2>
-<p>top 4% globally</p>
+<p>rating 1904, top 4% globally</p>
 </td>
 <td align="center" width="270">
 <h3>Codeforces</h3>
@@ -242,7 +249,7 @@ More experiments and utility projects (Python, Jupyter Notebook, Streamlit) are 
 <td align="center" width="270">
 <h3>Leadership</h3>
 <h2>Senator</h2>
-<p>college student body</p>
+<p>elected by 600+ voters</p>
 </td>
 <td align="center" width="270">
 <h3>Fest</h3>
@@ -275,7 +282,7 @@ More experiments and utility projects (Python, Jupyter Notebook, Streamlit) are 
 
 ## Portfolio
 
-Full write-ups of my internships, projects, DSA record, and résumé — with live stats
+Full write-ups of my internships, projects, DSA record, and résumé, with live stats
 pulled from GitHub, LeetCode, and Codeforces.
 
 ### [priyamgarg.vercel.app](https://priyamgarg.vercel.app)
@@ -299,6 +306,6 @@ pulled from GitHub, LeetCode, and Codeforces.
 
 ## Connect
 
-If you want to reach out about data analysis, full-stack engineering, AI systems, or product building, contact me at [23ucs682@lnmiit.ac.in](mailto:23ucs682@lnmiit.ac.in).
+If you want to reach out about full-stack engineering, AI systems, data analysis, or product building, contact me at [23ucs682@lnmiit.ac.in](mailto:23ucs682@lnmiit.ac.in).
 
 More about my work at [priyamgarg.vercel.app](https://priyamgarg.vercel.app).
